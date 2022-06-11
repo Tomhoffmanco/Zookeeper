@@ -162,6 +162,20 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "roger",
+      "species": "boxer",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "17"
+    },
+    {
+      "name": "jerry",
+      "species": "mouse",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "18"
     }
   ]
 }
